@@ -3,35 +3,36 @@ This repository contains my solutions, implementations, and practice problems fo
 
 ## 💻 Topics Covered
 
-### Arrays & Strings
+Arrays & Strings
 
-### Linked Lists (Singly, Doubly, Circular)
+Linked Lists (Singly, Doubly, Circular)
 
-### Stacks & Queues
+Stacks & Queues
 
-### Trees (Binary Tree, Binary Search Tree, N-ary Tree)
+Trees (Binary Tree, Binary Search Tree, N-ary Tree)
 
-### Graphs (DFS, BFS, Shortest Path, MST)
+Graphs (DFS, BFS, Shortest Path, MST)
 
-### Hashing & Maps
+Hashing & Maps
 
-### Sorting & Searching Algorithms
+Sorting & Searching Algorithms
 
-### Dynamic Programming
+Dynamic Programming
 
-### Recursion & Backtracking
+Recursion & Backtracking
 
 # 📌 Features
 
-### Clean and well-commented code for better readability.
+Clean and well-commented code for better readability.
 
-### Multiple approaches for common problems where applicable.
+Multiple approaches for common problems where applicable.
 
-### Solutions suitable for coding interviews and competitive programming.
+Solutions suitable for coding interviews and competitive programming.
 
-### Organized by topic and problem type for easy navigation.
+Organized by topic and problem type for easy navigation.
 
 # 🤝 Contributions
 
 Contributions are welcome!
 Feel free to open issues, submit pull requests, or suggest improvements for better code organization or new problem solutions.
+
