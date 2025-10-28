@@ -36,3 +36,15 @@ Organized by topic and problem type for easy navigation.
 Contributions are welcome!
 Feel free to open issues, submit pull requests, or suggest improvements for better code organization or new problem solutions.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
+<!---LeetCode Topics End-->
