@@ -50,9 +50,14 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
