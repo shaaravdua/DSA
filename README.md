@@ -50,6 +50,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -59,5 +60,6 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
