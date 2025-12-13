@@ -52,11 +52,13 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -74,4 +76,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
