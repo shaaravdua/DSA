@@ -52,6 +52,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
@@ -86,15 +87,18 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
