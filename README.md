@@ -85,8 +85,14 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
