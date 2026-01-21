@@ -46,6 +46,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +103,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
