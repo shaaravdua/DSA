@@ -58,6 +58,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
@@ -132,4 +133,5 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
