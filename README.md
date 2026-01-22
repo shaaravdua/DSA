@@ -56,6 +56,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +106,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +118,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -127,6 +131,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
