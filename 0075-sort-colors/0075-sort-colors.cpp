@@ -5,12 +5,12 @@ public:
         int j=0;
         int k=nums.size()-1;
         while(j<=k){
-            if(nums[j]==1){
-                j++;
-            }
-            else if(nums[j]==2){
+            if(nums[j]==2){
                 swap(nums[j],nums[k]);
                 k--;
+            }
+            else if(nums[j]==1){
+                j++;
             }
             else{
                 swap(nums[j],nums[i]);
