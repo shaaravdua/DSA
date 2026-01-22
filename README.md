@@ -54,6 +54,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
@@ -86,11 +87,13 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
