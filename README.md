@@ -64,6 +64,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -110,6 +111,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -120,14 +122,17 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -142,4 +147,16 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
