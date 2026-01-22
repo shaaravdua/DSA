@@ -1,13 +1,15 @@
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
-        vector<int> ans;
+        
         int n=nums.size();
+        vector<int> ans(n+n);
         for(int i=0;i<n+n;i++){
-            if(i>=n){
-                ans.push_back(nums[i-n]);
-            }else{
-                ans.push_back(nums[i]);
+            if(i<n){
+                ans[i]=nums[i];
+            }
+            else{
+                ans[i]=nums[i-n];
             }
         }
         return ans;
