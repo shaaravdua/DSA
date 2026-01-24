@@ -162,4 +162,20 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
