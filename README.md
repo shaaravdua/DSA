@@ -44,11 +44,13 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
