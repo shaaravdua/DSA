@@ -44,6 +44,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shaaravdua/git_test/tree/master/0876-middle-of-the-linked-list) |
@@ -53,6 +54,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shaaravdua/git_test/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -108,6 +110,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
