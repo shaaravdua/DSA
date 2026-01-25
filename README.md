@@ -42,6 +42,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shaaravdua/git_test/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
@@ -53,6 +54,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shaaravdua/git_test/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
