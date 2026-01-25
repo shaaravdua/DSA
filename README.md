@@ -42,6 +42,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/0237-delete-node-in-a-linked-list) |
@@ -187,5 +188,6 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
