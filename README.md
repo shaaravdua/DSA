@@ -101,6 +101,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
 ## Matrix
@@ -113,6 +114,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
@@ -134,6 +136,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
