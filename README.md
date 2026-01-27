@@ -80,6 +80,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -169,6 +170,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,4 +204,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
