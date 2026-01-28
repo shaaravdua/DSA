@@ -64,6 +64,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0344-reverse-string](https://github.com/shaaravdua/git_test/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shaaravdua/git_test/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/shaaravdua/git_test/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shaaravdua/git_test/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -146,6 +147,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shaaravdua/git_test/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/shaaravdua/git_test/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
