@@ -83,6 +83,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
@@ -227,4 +228,5 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
