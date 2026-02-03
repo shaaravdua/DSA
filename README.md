@@ -151,6 +151,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shaaravdua/git_test/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
@@ -238,4 +239,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
