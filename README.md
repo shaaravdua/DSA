@@ -243,4 +243,17 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
