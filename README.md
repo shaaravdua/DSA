@@ -85,6 +85,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
@@ -243,6 +244,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -251,6 +253,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
