@@ -85,6 +85,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/shaaravdua/git_test/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
@@ -96,6 +97,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/shaaravdua/git_test/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -244,6 +246,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/shaaravdua/git_test/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
 ## Design
