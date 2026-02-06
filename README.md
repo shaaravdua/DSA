@@ -209,6 +209,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0543-diameter-of-binary-tree) |
@@ -217,6 +218,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0543-diameter-of-binary-tree) |
@@ -229,6 +231,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0543-diameter-of-binary-tree) |
@@ -254,6 +257,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0020-valid-parentheses](https://github.com/shaaravdua/git_test/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/shaaravdua/git_test/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shaaravdua/git_test/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
