@@ -94,6 +94,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaaravdua/git_test/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
