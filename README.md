@@ -61,6 +61,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0125-valid-palindrome](https://github.com/shaaravdua/git_test/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaaravdua/git_test/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shaaravdua/git_test/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
@@ -82,6 +83,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
@@ -107,6 +109,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaaravdua/git_test/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shaaravdua/git_test/tree/master/0875-koko-eating-bananas) |
@@ -286,4 +289,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shaaravdua/git_test/tree/master/0901-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
