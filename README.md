@@ -97,6 +97,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaaravdua/git_test/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaaravdua/git_test/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
@@ -126,6 +127,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shaaravdua/git_test/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
+| [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -272,6 +275,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
 ## Stack
 |  |
 | ------- |
