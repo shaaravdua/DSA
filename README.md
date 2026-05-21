@@ -82,6 +82,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shaaravdua/git_test/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0142-linked-list-cycle-ii](https://github.com/shaaravdua/git_test/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shaaravdua/git_test/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shaaravdua/git_test/tree/master/0560-subarray-sum-equals-k) |
@@ -267,6 +269,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shaaravdua/git_test/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
