@@ -131,6 +131,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shaaravdua/git_test/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
+| [0728-self-dividing-numbers](https://github.com/shaaravdua/git_test/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
 ## Matrix
 |  |
