@@ -82,6 +82,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0066-plus-one](https://github.com/shaaravdua/git_test/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shaaravdua/git_test/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shaaravdua/git_test/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaaravdua/git_test/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
@@ -319,6 +320,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shaaravdua/git_test/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
