@@ -81,6 +81,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0049-group-anagrams](https://github.com/shaaravdua/git_test/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shaaravdua/git_test/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shaaravdua/git_test/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shaaravdua/git_test/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaaravdua/git_test/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
@@ -144,6 +146,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shaaravdua/git_test/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/shaaravdua/git_test/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
