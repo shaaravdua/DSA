@@ -55,6 +55,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shaaravdua/git_test/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
@@ -75,6 +76,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
@@ -294,6 +296,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/shaaravdua/git_test/tree/master/0860-lemonade-change) |
