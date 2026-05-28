@@ -246,6 +246,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shaaravdua/git_test/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shaaravdua/git_test/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
@@ -258,6 +259,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shaaravdua/git_test/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shaaravdua/git_test/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
@@ -270,6 +272,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shaaravdua/git_test/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shaaravdua/git_test/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaaravdua/git_test/tree/master/0199-binary-tree-right-side-view) |
@@ -279,6 +282,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shaaravdua/git_test/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shaaravdua/git_test/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shaaravdua/git_test/tree/master/0144-binary-tree-preorder-traversal) |
