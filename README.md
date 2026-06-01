@@ -57,6 +57,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shaaravdua/git_test/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/shaaravdua/git_test/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shaaravdua/git_test/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/shaaravdua/git_test/tree/master/0125-valid-palindrome) |
@@ -77,6 +78,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/shaaravdua/git_test/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shaaravdua/git_test/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
