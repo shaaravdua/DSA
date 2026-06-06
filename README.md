@@ -115,6 +115,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1470-shuffle-the-array](https://github.com/shaaravdua/git_test/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaaravdua/git_test/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/shaaravdua/git_test/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0724-find-pivot-index](https://github.com/shaaravdua/git_test/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaaravdua/git_test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/shaaravdua/git_test/tree/master/2574-left-and-right-sum-differences) |
 ## Merge Sort
 |  |
 | ------- |
