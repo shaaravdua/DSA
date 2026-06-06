@@ -1,0 +1,31 @@
+class Solution {
+  public:
+    void dfs(int node,vector<vector<int>>& adj,vector<int>& vis){
+        vis[node]=1;
+        for(int nbr:adj[node]){
+            if(!vis[nbr]){
+                dfs(nbr,adj,vis);
+            }
+        }
+    }
+    int countConnected(int V, vector<vector<int>>& edges) {
+        // code here
+        vector<vector<int>> adj(V);
+        for(auto& edge:edges){
+            int u=edge[0];
+            int v=edge[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+            
+        }
+        vector<int> vis(V,0);
+        int components=0;
+        for(int i=0;i<V;i++){
+            if(!vis[i]){
+                components++;
+                dfs(i,adj,vis);
+            }
+        }
+        return components;
+    }
+};
