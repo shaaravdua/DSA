@@ -265,6 +265,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shaaravdua/git_test/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shaaravdua/git_test/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shaaravdua/git_test/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -378,4 +380,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0200-number-of-islands](https://github.com/shaaravdua/git_test/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shaaravdua/git_test/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shaaravdua/git_test/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
