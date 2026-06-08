@@ -145,6 +145,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | ------- |
 | [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shaaravdua/git_test/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shaaravdua/git_test/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shaaravdua/git_test/tree/master/0189-rotate-array) |
@@ -323,6 +324,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shaaravdua/git_test/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
