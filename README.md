@@ -87,6 +87,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0073-set-matrix-zeroes](https://github.com/shaaravdua/git_test/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shaaravdua/git_test/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/shaaravdua/git_test/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shaaravdua/git_test/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaaravdua/git_test/tree/master/0189-rotate-array) |
@@ -384,4 +385,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shaaravdua/git_test/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shaaravdua/git_test/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
