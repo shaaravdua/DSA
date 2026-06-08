@@ -10,21 +10,14 @@
  * };
  */
 class Solution {
-    TreeNode* invert(TreeNode* node){
-        if(!node){
-            return nullptr;
-        }
-        TreeNode* left=invert(node->left);
-        TreeNode* right=invert(node->right);
-        node->left=right;
-        node->right=left;
-        return node;
-    }
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if(!root){
-            return nullptr;
+        if(root==NULL){
+            return NULL;
         }
-        return invert(root);
+        TreeNode* temp=root->left;
+        root->left=invertTree(root->right);
+        root->right=invertTree(temp);
+        return root;
     }
 };
