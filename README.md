@@ -186,6 +186,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shaaravdua/git_test/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaaravdua/git_test/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shaaravdua/git_test/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/shaaravdua/git_test/tree/master/2653-sliding-subarray-beauty) |
 ## Sorting
@@ -214,6 +215,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shaaravdua/git_test/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -238,6 +240,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
