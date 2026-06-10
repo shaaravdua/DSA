@@ -64,6 +64,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0125-valid-palindrome](https://github.com/shaaravdua/git_test/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shaaravdua/git_test/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shaaravdua/git_test/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaaravdua/git_test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shaaravdua/git_test/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shaaravdua/git_test/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +92,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0088-merge-sorted-array](https://github.com/shaaravdua/git_test/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shaaravdua/git_test/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shaaravdua/git_test/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaaravdua/git_test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shaaravdua/git_test/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shaaravdua/git_test/tree/master/0200-number-of-islands) |
@@ -134,6 +136,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaaravdua/git_test/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaaravdua/git_test/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shaaravdua/git_test/tree/master/0704-binary-search) |
