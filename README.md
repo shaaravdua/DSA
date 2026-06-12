@@ -117,6 +117,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaaravdua/git_test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
+| [1046-last-stone-weight](https://github.com/shaaravdua/git_test/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/shaaravdua/git_test/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaaravdua/git_test/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -229,6 +230,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shaaravdua/git_test/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/shaaravdua/git_test/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
