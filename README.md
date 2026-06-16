@@ -220,6 +220,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shaaravdua/git_test/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/shaaravdua/git_test/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shaaravdua/git_test/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -422,4 +423,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0053-maximum-subarray](https://github.com/shaaravdua/git_test/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shaaravdua/git_test/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shaaravdua/git_test/tree/master/0152-maximum-product-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shaaravdua/git_test/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
