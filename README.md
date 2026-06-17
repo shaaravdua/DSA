@@ -124,6 +124,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1046-last-stone-weight](https://github.com/shaaravdua/git_test/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shaaravdua/git_test/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/shaaravdua/git_test/tree/master/1470-shuffle-the-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shaaravdua/git_test/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaaravdua/git_test/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shaaravdua/git_test/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shaaravdua/git_test/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -198,6 +199,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0560-subarray-sum-equals-k](https://github.com/shaaravdua/git_test/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaaravdua/git_test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shaaravdua/git_test/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shaaravdua/git_test/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/shaaravdua/git_test/tree/master/2653-sliding-subarray-beauty) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shaaravdua/git_test/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -215,6 +217,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0881-boats-to-save-people](https://github.com/shaaravdua/git_test/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shaaravdua/git_test/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shaaravdua/git_test/tree/master/0976-largest-perimeter-triangle) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shaaravdua/git_test/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
