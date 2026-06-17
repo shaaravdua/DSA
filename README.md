@@ -79,6 +79,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaaravdua/git_test/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaaravdua/git_test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shaaravdua/git_test/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shaaravdua/git_test/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
@@ -138,6 +139,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaaravdua/git_test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shaaravdua/git_test/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shaaravdua/git_test/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shaaravdua/git_test/tree/master/0074-search-a-2d-matrix) |
@@ -231,6 +233,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaaravdua/git_test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shaaravdua/git_test/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
