@@ -129,6 +129,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shaaravdua/git_test/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/shaaravdua/git_test/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/shaaravdua/git_test/tree/master/2653-sliding-subarray-beauty) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shaaravdua/git_test/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shaaravdua/git_test/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/shaaravdua/git_test/tree/master/2653-sliding-subarray-beauty) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shaaravdua/git_test/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shaaravdua/git_test/tree/master/1189-maximum-number-of-balloons) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shaaravdua/git_test/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
