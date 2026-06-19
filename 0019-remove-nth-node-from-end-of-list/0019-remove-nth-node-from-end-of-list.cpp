@@ -32,5 +32,6 @@ public:
         prev->next=temp->next;
         delete(temp);
         return head;
+
     }
 };
