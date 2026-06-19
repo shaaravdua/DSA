@@ -42,6 +42,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaaravdua/git_test/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shaaravdua/git_test/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shaaravdua/git_test/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -157,6 +158,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaaravdua/git_test/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shaaravdua/git_test/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shaaravdua/git_test/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shaaravdua/git_test/tree/master/0048-rotate-image) |
@@ -359,6 +361,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaaravdua/git_test/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shaaravdua/git_test/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shaaravdua/git_test/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shaaravdua/git_test/tree/master/0206-reverse-linked-list) |
