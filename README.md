@@ -449,4 +449,8 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shaaravdua/git_test/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shaaravdua/git_test/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
