@@ -106,6 +106,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0200-number-of-islands](https://github.com/shaaravdua/git_test/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shaaravdua/git_test/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shaaravdua/git_test/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shaaravdua/git_test/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shaaravdua/git_test/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shaaravdua/git_test/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +199,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shaaravdua/git_test/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shaaravdua/git_test/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
@@ -217,6 +219,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0088-merge-sorted-array](https://github.com/shaaravdua/git_test/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaaravdua/git_test/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shaaravdua/git_test/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shaaravdua/git_test/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shaaravdua/git_test/tree/master/0455-assign-cookies) |
@@ -265,6 +268,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaaravdua/git_test/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shaaravdua/git_test/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shaaravdua/git_test/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shaaravdua/git_test/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaaravdua/git_test/tree/master/0387-first-unique-character-in-a-string) |
