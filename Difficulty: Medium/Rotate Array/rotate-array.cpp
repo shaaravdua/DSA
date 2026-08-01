@@ -1,17 +1,11 @@
 class Solution {
-public:
+  public:
     void rotateArr(vector<int>& arr, int d) {
-        int n = arr.size();
-
-        d %= n;
-
-        // Step 1: reverse first d elements
-        reverse(arr.begin(), arr.begin() + d);
-
-        // Step 2: reverse remaining elements
-        reverse(arr.begin() + d, arr.end());
-
-        // Step 3: reverse whole array
-        reverse(arr.begin(), arr.end());
+        // code here
+        int n=arr.size();
+        d=d%n;
+        reverse(arr.begin(),arr.begin()+d);
+        reverse(arr.begin()+d,arr.end());
+        reverse(arr.begin(),arr.end());
     }
 };
