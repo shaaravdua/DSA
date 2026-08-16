@@ -473,6 +473,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1193-monthly-transactions-i](https://github.com/shaaravdua/git_test/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/shaaravdua/git_test/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shaaravdua/git_test/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1729-find-followers-count](https://github.com/shaaravdua/git_test/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shaaravdua/git_test/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shaaravdua/git_test/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
