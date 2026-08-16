@@ -466,6 +466,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [0584-find-customer-referee](https://github.com/shaaravdua/git_test/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shaaravdua/git_test/tree/master/0595-big-countries) |
 | [1075-project-employees-i](https://github.com/shaaravdua/git_test/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/shaaravdua/git_test/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/shaaravdua/git_test/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/shaaravdua/git_test/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/shaaravdua/git_test/tree/master/1280-students-and-examinations) |
