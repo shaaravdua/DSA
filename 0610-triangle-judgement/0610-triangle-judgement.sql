@@ -1,3 +1,8 @@
 # Write your MySQL query statement below
-select x,y,z,if(abs(sum(x+y)>z),'Yes','No') as triangle
-from Triangle group by x,y,z;
+SELECT x, y, z,
+       IF(x + y > z AND
+          x + z > y AND
+          y + z > x,
+          'Yes',
+          'No') AS triangle
+FROM Triangle;
