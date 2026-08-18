@@ -475,6 +475,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shaaravdua/git_test/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/shaaravdua/git_test/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/shaaravdua/git_test/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/shaaravdua/git_test/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/shaaravdua/git_test/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shaaravdua/git_test/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1729-find-followers-count](https://github.com/shaaravdua/git_test/tree/master/1729-find-followers-count) |
