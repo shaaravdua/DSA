@@ -478,6 +478,7 @@ Feel free to open issues, submit pull requests, or suggest improvements for bett
 | [1204-last-person-to-fit-in-the-bus](https://github.com/shaaravdua/git_test/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/shaaravdua/git_test/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shaaravdua/git_test/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/shaaravdua/git_test/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/shaaravdua/git_test/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shaaravdua/git_test/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shaaravdua/git_test/tree/master/1757-recyclable-and-low-fat-products) |
